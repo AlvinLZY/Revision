@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Revision</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Save">Save</string>
+    <string name="gender">Gender:</string>
+    <string name="Gender">Gender</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="ProgrammingLanguage">Programming Language</string>
+    <string name="Name">Name</string>
+    <string name="PL">Programming Language</string>
+    <string name="Email">Email</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
